@@ -1,0 +1,7 @@
+.git
+.github
+docs/media
+pinokio
+tools
+*.md
+.gev-cache
